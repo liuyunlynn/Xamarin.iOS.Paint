@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Study\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint.csproj": {}
+  },
+  "projects": {
+    "E:\\Study\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Study\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint.csproj",
+        "projectName": "Xamarin.iOS.Paint",
+        "projectPath": "E:\\Study\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint.csproj",
+        "packagesPath": "C:\\Users\\Yun\\.nuget\\packages\\",
+        "outputPath": "E:\\Study\\Xamarin.iOS.Paint\\Xamarin.iOS.Paint\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Yun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
